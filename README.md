@@ -3,12 +3,13 @@
 
 Перед запуском скачать нужные пакеты, сделать ребилд:
 
-`npm i`
+`npm rebuild`
+`npm install`
 
-## запуск бекенда
+## запуск BackEnd
 `DEBUG=backend:* npm start`
 
-## запуск фронтенда
+## запуск FrontEnd
 Для VUE-CLI: `npm run serve`
 
 Для сервера: `PORT=8080 DEBUG=backend:* npm start`
