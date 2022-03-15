@@ -12,3 +12,8 @@
 Для VUE-CLI: `npm run serve`
 
 Для сервера: `PORT=8080 DEBUG=backend:* npm start`
+
+
+### Зависимости
+
+Используются VUE-CLI, better-sqlite3, express
